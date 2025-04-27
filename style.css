@@ -130,6 +130,24 @@ main{
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
+    position: relative;
+}
+
+.artist-card button, .album-card button{
+    display: none;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 32px;
+    position: absolute;
+    bottom: 20px;
+    right: 10px;
+}
+
+.artist-card:hover button, .album-card:hover button{
+    display: flex;
 }
 
 .artist-card:hover, .album-card:hover{

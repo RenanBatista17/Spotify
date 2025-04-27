@@ -25,6 +25,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 <h3>${artist.name}</h3>
                 <p>artista</p>
             </div>
+            <button>
+                <i class="fa-solid fa-circle-play" style="color: #22c95c;"></i>
+            </i></button>
         `
 
         artistGrid.appendChild(artistCard)
@@ -39,6 +42,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 <h3>${album.name}</h3>
                 <p>${album.artist}</p>
             </div>
+            <button>
+                <i class="fa-solid fa-circle-play" style="color: #22c95c;"></i>
+            </i></button>
         `
 
         albumGrid.appendChild(albumCard)
