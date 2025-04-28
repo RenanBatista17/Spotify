@@ -30,7 +30,7 @@ Explique aqui um passo a passo mostrando como deve executar para ter um ambiente
 
 * Clone este repositório:
 
-git clone https://github.com/seu-usuario/Carrossel.git
+git clone https://github.com/seu-usuario/Spotify-Clone.git
 
 * Navegue até a pasta do projeto:
 
