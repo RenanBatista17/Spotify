@@ -27,13 +27,13 @@ Não é necessário instalar bibliotecas ou frameworks.
 ### 🔨 Guia de instalação
 
 * Clone este repositório:
-
+```
 git clone https://github.com/seu-usuario/spotify-Clone.git
-
+```
 * Navegue até a pasta do projeto:
-
+```
 cd spotify-Clone
-
+```
 * Abra o arquivo index.html em seu navegador
 
 ## 📦 Tecnologias usadas:
